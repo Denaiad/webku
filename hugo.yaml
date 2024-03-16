@@ -1,0 +1,47 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Denai Notes
+theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: "Math is Fun" # optional default will be site title
+    subtitle: "Matematika itu Mengenyangkan"
+    #imageUrl: "<image link>" # optional
+    buttons:
+      - name: Posts
+        url: "/posts"
+      - name: github
+        url: "https://github.com/"
+      - name: instagram
+        url: "https://instagram.com/"
+
+  cover:
+    linkFullImages: true
+  
+  ShowReadingTime: true
+
+  ShowBreadCrumbs: true
+
+
+  socialIcons: # optional
+    - name: "instagram"
+      url: "<link>"
+    - name: "github"
+      url: "<link2>"
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
