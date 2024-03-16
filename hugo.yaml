@@ -6,26 +6,26 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: Helluk Gessss
+    Content: Matematika itu Mengenyangkan
 
   socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+    - name: "Instagram"
+      url: https://instagram.com
+    - name: "github"
+      url: https://github.com
       
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Kategori
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tag
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: archives
+      name: Archives
+      url: /archives/
       weight: 30
