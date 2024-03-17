@@ -19,8 +19,7 @@ Integral ini mudah dilakukan dengan substitusi karena adanya cosinus, namun, bag
 
 $$
 \begin{align*}
-\text{Contoh 1 Hitung integral berikut ini}: \
-\int sin^{5}x \ dx
+\text{Contoh 1 Hitung integral berikut ini}: \ \int sin^{5}x \ dx
 \end{align*}
 $$
 
@@ -78,8 +77,7 @@ Jika eksponen pada sinus adalah genap, hal ini akan sulit dilakukan. Kita dapat 
 
 $$
 \begin{align*}
-\text{Contoh 2 Hitung integral berikut ini}: \
-\int sin^6{x} \cos^3{x} \ dx
+\text{Contoh 2 Hitung integral berikut ini}: \ \int sin^6{x} \cos^3{x} \ dx
 \end{align*}
 $$
 
@@ -128,8 +126,7 @@ Mari kita lihat sebuah contoh
 
 $$
 \begin{align*}
-\text{Contoh 3 Hitung integral berikut ini}: \
-\int \sin^2{x}\cos^2{x}\  dx
+\text{Contoh 3 Hitung integral berikut ini}: \ \int \sin^2{x}\cos^2{x}\  dx
 \end{align*}
 $$
 
@@ -205,8 +202,7 @@ Mari kita lihat contoh dari salah satu jenis integral ini.
 
 $$
 \begin{align*}
-\text{Contoh 4 Hitung integral berikut ini}: \
-\int \cos{(15x)}\cos{(4x)}\  dx
+\text{Contoh 4 Hitung integral berikut ini}: \ \int \cos{(15x)}\cos{(4x)}\  dx
 \end{align*}
 $$
 
@@ -261,8 +257,7 @@ Mari kita lihat beberapa contoh.
 
 $$
 \begin{align*}
-\text{Contoh 5 Hitung integral berikut ini}: \
-\int sec^9{x} \tan^5{x} \ dx
+\text{Contoh 5 Hitung integral berikut ini}: \ \int sec^9{x} \tan^5{x} \ dx
 \end{align*}
 $$
 
@@ -283,8 +278,7 @@ $$
 
 $$
 \begin{align*}
-\text{Contoh 6 Hitung integral berikut ini}: \
-\int sec^4{x} \tan^6{x} \ dx
+\text{Contoh 6 Hitung integral berikut ini}: \ \int sec^4{x} \tan^6{x} \ dx
 \end{align*}
 $$
 
@@ -309,8 +303,7 @@ Pertama mari kita lihat beberapa integral yang mempunyai eksponen ganjil pada ta
 
 $$
 \begin{align*}
-\text{Contoh 7 Hitung integral berikut ini}: \
-\int \tan{x}\ dx
+\text{Contoh 7 Hitung integral berikut ini}: \ \int \tan{x}\ dx
 \end{align*}
 $$
 
@@ -349,8 +342,7 @@ $$
 
 $$
 \begin{align*}
-\text{Contoh 8 Hitung integral berikut ini}: \
-\int \tan^3{x}\ dx
+\text{Contoh 8 Hitung integral berikut ini}: \ \int \tan^3{x}\ dx
 \end{align*}
 $$
 
@@ -391,8 +383,7 @@ Perlu dicatat juga bahwa kedua integral berikut merupakan integral yang akan kit
 
 $$
 \begin{align*}
-\text{Contoh 9 Hitung integral berikut ini}: \
-\int \sec{x}\ dx
+\text{Contoh 9 Hitung integral berikut ini}: \ \int \sec{x}\ dx
 \end{align*}
 $$
 
@@ -422,8 +413,7 @@ Inilah contoh berikutnya.
 
 $$
 \begin{align*}
-\text{Contoh 10 Hitung integral berikut ini}: \
-\int \sec^3{x}\ dx
+\text{Contoh 10 Hitung integral berikut ini}: \ \int \sec^3{x}\ dx
 \end{align*}
 $$
 
@@ -495,8 +485,7 @@ Mari kita lihat sekilas contohnya
 
 $$
 \begin{align*}
-\text{Contoh 11 Hitung integral berikut ini}: \
-\int \dfrac{\sin^7{x}}{\cos^4{x}}\ dx
+\text{Contoh 11 Hitung integral berikut ini}: \ \int \dfrac{\sin^7{x}}{\cos^4{x}}\ dx
 \end{align*}
 $$
 
