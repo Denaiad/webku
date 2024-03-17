@@ -43,7 +43,7 @@ $$
     \end{align*}
     $$
     
-    Sekarang ingat kembali identitas trigonometri,
+    Dengan identitas ini, integral dapat dituliskan sebagai,
     
     $$
     \begin{align*}
@@ -55,9 +55,9 @@ $$
     
     $$
     \begin{align*}
-    \int{\sin^5{x}\ dx} &= -\int{(1-u^2)^2 \ du} \\
-    &= -\int{1 - 2u^2 + u^4 \ du} \\
-    &= -\left(u + \dfrac{2}{3}\ u^3 + \dfrac{1}{5}\ u^5 + c \right) \\
+    \int{\sin^5{x}\ dx} &= -\int{(1-u^2)^2 \ du} \newline
+    &= -\int{1 - 2u^2 + u^4 \ du} \newline
+    &= -\left(u + \dfrac{2}{3}\ u^3 + \dfrac{1}{5}\ u^5 + c \right) \newline
     &= -\cos{x} + \dfrac{2}{3}\ \cos^3{x} - \dfrac{1}{5}\ \cos^5{x} + c
     \end{align*}
     $$
@@ -87,10 +87,10 @@ $$
     
     $$
     \begin{align*}
-    \int{\sin^6{x}\cos^3{x}\ dx} &= \int{\sin^6{x}\cos^2{x}\cos{x}\ dx}\\
-    &= \int{sin^6{x}\ (1-\sin^2{x})\cos{x}\ dx} &&&&& \text{u = sin x} \\
-    &= \int{u^6 (1-u^2)\ du}\\
-    &= \int{u^6-u^8 \ du}\\
+    \int{\sin^6{x}\cos^3{x}\ dx} &= \int{\sin^6{x}\cos^2{x}\cos{x}\ dx}\newline
+    &= \int{sin^6{x}\ (1-\sin^2{x})\cos{x}\ dx} &&&&& \text{u = sin x} \newline
+    &= \int{u^6 (1-u^2)\ du}\newline
+    &= \int{u^6-u^8 \ du}\newline
     &= \dfrac{1}{7}\sin^7{x} - \dfrac{1}{9}\sin^9{x}+c
     \end{align*}
     $$
